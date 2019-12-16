@@ -1,4 +1,4 @@
-# Repósito criado e disponível para Pós-Graduação de Análise e Engenharia de Dados - Cesar School
+# Repositório criado e disponível para Pós-Graduação de Análise e Engenharia de Dados - Cesar School
 # Disciplina: Introdução a Ciência de dados
 # Prof.: Luciano Barbosa 
 
